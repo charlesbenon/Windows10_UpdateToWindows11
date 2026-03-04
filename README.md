@@ -7,6 +7,7 @@ I felt it would be best to share it as this is not straight forward for anyone n
 # 2/ Update Status 
 
 First step I would suggest it to install Windows 11 [**PC Health Check app**](https://support.microsoft.com/en-us/windows/check-if-a-device-meets-windows-11-system-requirements-after-changing-device-hardware-f3bc0aeb-6884-41a1-ab57-88258df6812b): 
+
 <img width="436" height="313" alt="image" src="https://github.com/user-attachments/assets/596e2c19-714d-41a2-b860-8e60ec38ad90" />
 
 This will explain what is currently blocking the update to Windows 11. In my case, it was because of the CPU which is a non sense.
