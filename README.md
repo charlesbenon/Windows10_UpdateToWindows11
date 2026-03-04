@@ -21,6 +21,7 @@ After that, I would recommend a check of the disk usage (64GB should be availabl
 # 4/ Cleaning
 
 Another intersting software is [**PatchCleaner**](https://sourceforge.net/projects/patchcleaner/) to remove unused system files (MSP for example, I had 50GB of them):
+
 <img width="713" height="253" alt="image" src="https://github.com/user-attachments/assets/6f01ac5e-8bf9-4f7c-adf2-66c32120d64c" />
 
 I would also recommend to remove any old application you don't use from [**All Apps**](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-4b55f974-2cc6-2d2b-d092-5905080eaf98) menu. 
